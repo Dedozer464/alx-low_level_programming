@@ -1,4 +1,4 @@
-#include "stdlib"
+#include <stdlib.h>
 
 /**
  * sqrt_check - verify if s is the square root of c
